@@ -1,0 +1,14 @@
+User-agent: Googlebot
+Disallow: /coming-soon-1
+
+User-agent: Bingbot
+Disallow: /coming-soon-1
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: *
+Disallow: /coming-soon-1
